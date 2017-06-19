@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e31cb955aed5e602daf4655664f0b2f696b00910\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoadingBar-master\example\build\intermediates\pre-dexed\debug\classes_a425b8ccdc46505c584dec9d89de272dcf95e044.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\LoadingBar-master\loadingbar\build\intermediates\bundles\default\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fccbf03a575e28fd83995bfa2fe0640b13464989">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoadingBar-master\example\build\intermediates\pre-dexed\debug\classes_884a312d45fb784ed4b592105bafeabc5475ee06.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\e31cb955aed5e602daf4655664f0b2f696b00910\output\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoadingBar-master\example\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_548f8535b283f59a64bee199b2002e24c9fa0190.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoadingBar-master\example\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_c9fae43cda2e1c04b2ab0de43a8f148b5b1a92fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\82b27354388d81aaf69faa6d967f89117e578016\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoadingBar-master\example\build\intermediates\pre-dexed\debug\classes_a6ce3cc7ff0a4bfb246de8c5f19e807c503750a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\211c7b8bc6a89d3305af386b2d46a203f6dc4d6b\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoadingBar-master\example\build\intermediates\pre-dexed\debug\classes_e41e4a921bd88eaddadb9307a5cb283b4bc060e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\fdcbaa77a7d4c27c6a670e0fa2c4b7f4daedad64\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoadingBar-master\example\build\intermediates\pre-dexed\debug\classes_8380a96e3ea8477caf76e31e691db90b673244b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\cdee47925e1bd5a068a487ccccac9e421ded2d76\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoadingBar-master\example\build\intermediates\pre-dexed\debug\classes_466fc472b95789e1c7018be28cb480950811ff95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.android\build-cache\d0d79b21f941f60f56bb6426a5fc71fedec7eaa1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\LoadingBar-master\example\build\intermediates\pre-dexed\debug\classes_565e7df230b78e8a62b93852f39cb7ac017c9ea8.jar" />
+    </item>
+
+</items>
